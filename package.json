@@ -1,0 +1,18 @@
+{
+  "name": "bald3r-node-todo",
+  "bin": {
+    "t": "cli.js"
+  },
+  "files": [
+    "*.js"
+  ],
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "bald3r",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^3.0.2",
+    "inquirer": "^8.0.0"
+  }
+}
